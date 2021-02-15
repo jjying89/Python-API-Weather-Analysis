@@ -8,16 +8,16 @@
 
 Max Temp:
 
-<img src="WeatherPy/Latitude_MaxTemp.PNG" width="600">
+<img src="Images/Latitude_MaxTemp.PNG" width="600">
 
 Humidity:
 
-<img src="WeatherPy/Latitude_Humidity.PNG" width="600">
+<img src="Images/Latitude_Humidity.PNG" width="600">
 
 Heatmap:
 
-<img src="WeatherPy/heatmap.PNG" width="600">
+<img src="Images/heatmap.PNG" width="600">
 
 Hotel Map:
 
-<img src="WeatherPy/hotel_map.PNG" width="600">
+<img src="Images/hotel_map.PNG" width="600">
