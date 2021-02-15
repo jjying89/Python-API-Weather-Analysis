@@ -8,16 +8,16 @@
 
 Max Temp:
 
-<img src="Images/Latitude_MaxTemp.PNG" width="600">
+<img src="Images/Latitude_MaxTemp.PNG">
 
 Humidity:
 
-<img src="Images/Latitude_Humidity.PNG" width="600">
+<img src="Images/Latitude_Humidity.PNG">
 
 Heatmap:
 
-<img src="Images/heatmap.PNG" width="600">
+<img src="Images/heatmap.PNG">
 
 Hotel Map:
 
-<img src="Images/hotel_map.PNG" width="600">
+<img src="Images/hotel_map.PNG">
