@@ -1,10 +1,16 @@
-# python-api-challenge
+# Planning the Perfect Vacation
+
+## Requirements
+
+-An OpenWeatherMap and Google API key will be required to run this repository.
+
+## Goal
 
 -Visualize the weather of 500+ random cities across the world.
 
 -Find the perfect city for vacation and the nearest hotel based on city coordinates.
 
--An openweather and google API key will be required to run this repository.
+## Results
 
 Max Temp:
 
