@@ -2,7 +2,7 @@
 
 ## Requirements
 
--An openweather and google API key will be required to run this repository.
+-An OpenWeatherMap and Google API key will be required to run this repository.
 
 ## Goal
 
