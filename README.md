@@ -8,16 +8,16 @@
 
 Max Temp:
 
-<img src="Images/Latitude_MaxTemp.PNG">
+<img src="https://github.com/jjying89/python-api-challenge/blob/main/WeatherPy/Latitude_MaxTemp.png" width="600">
 
 Humidity:
 
-<img src="Images/Latitude_Humidity.PNG">
+<img src="https://github.com/jjying89/python-api-challenge/blob/main/WeatherPy/Latitude_Humidity.png" width="600">
 
 Heatmap:
 
-<img src="Images/heatmap.PNG">
+<img src="https://github.com/jjying89/python-api-challenge/blob/main/WeatherPy/heatmap.png" width="600">
 
 Hotel Map:
 
-<img src="Images/hotel_map.PNG">
+<img src="https://github.com/jjying89/python-api-challenge/blob/main/WeatherPy/hotel_map.png" width="600">
