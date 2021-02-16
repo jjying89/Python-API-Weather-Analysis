@@ -24,6 +24,6 @@ Heatmap:
 
 <img src="https://github.com/jjying89/python-api-challenge/blob/main/WeatherPy/heatmap.png" width="600">
 
-Hotel Map:
+Final Cities:
 
-<img src="https://github.com/jjying89/python-api-challenge/blob/main/WeatherPy/hotel_map.png" width="600">
+<img src="https://github.com/jjying89/python-api-challenge/blob/main/WeatherPy/city_results.PNG" width="600">
